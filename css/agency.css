@@ -597,7 +597,9 @@ section#contact {
   background-repeat: no-repeat;
   background-position: center;
 }
-
+.contactback {
+  background-color: #fff;
+}
 section#contact .section-heading {
   color: #fff;
 }

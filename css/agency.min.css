@@ -469,12 +469,12 @@ header.masthead .intro-text .intro-heading {
     position: absolute;
     z-index: 100;
     left: 0;
-    width: 100px;
+    width: 0%;
     height: auto;
     margin-left: 0;
     text-align: center;
     color: #fff;
-    border: 7px solid #e9ecef;
+    border: 0px solid #e9ecef;
     border-radius: 100%;
     background-color: #FFA3B2;
 }
@@ -538,7 +538,7 @@ header.masthead .intro-text .intro-heading {
     }
     .timeline>li .timeline-image {
         left: 50%;
-
+        width: 2%;
         height: auto;
         margin-left: -50px
     }
