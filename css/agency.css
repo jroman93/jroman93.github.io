@@ -442,8 +442,8 @@ header.masthead .intro-text .intro-heading {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
+  width: 0%;
+  height: 0%;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -453,7 +453,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .timeline > li .timeline-image h4 {
-  font-size: 10px;
+  font-size: 0px;
   line-height: 14px;
   margin-top: 12px;
 }
@@ -590,16 +590,16 @@ header.masthead .intro-text .intro-heading {
 .team-member p {
   margin-top: 0;
 }
-
+.contactback {
+  background-color: #ffffff;
+}
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
-.contactback {
-  background-color: #fff;
-}
+
 section#contact .section-heading {
   color: #fff;
 }
